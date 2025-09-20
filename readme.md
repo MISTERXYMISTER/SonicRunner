@@ -1,6 +1,6 @@
 <!-- ---------------  SONICRUNNER  --------------- -->
 <h1 align="center">
-  <img src="public/images/Thumbnail.png" width="80" alt="SonicRunner logo"/>
+  <img src="public/Images/Thumbnail.png" width="80" alt="SonicRunner logo"/>
   <br>
   SONICRUNNER
   <br>
